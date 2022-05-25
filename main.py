@@ -43,7 +43,7 @@ def main_function(file_name):
 
 
 
-print(main_function('log/access - Copy.log'))
+print(main_function('log/access.log'))
 
 
 #Sample data in the file 
